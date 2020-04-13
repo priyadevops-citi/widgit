@@ -1,1 +1,2 @@
 This is feature2.txt created in widgit
+This is another updated in feature2.txt
