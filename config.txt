@@ -1,2 +1,4 @@
 username=john@gmail.com
 password=password_123
+value1 = 897
+value2 = 453
