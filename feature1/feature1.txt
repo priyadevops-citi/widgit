@@ -1,4 +1,0 @@
-This is feature1.txt file of widgit
-This change is done locally and now ready to push on remote
-Third update in the file
-New update
